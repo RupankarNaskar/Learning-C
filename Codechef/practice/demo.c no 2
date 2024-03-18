@@ -1,4 +1,4 @@
-#include<stio.h>
+#include<stdio.h>
 int main(){
 int a,b,sum,
 printf("enter 1st & 2nd number");
